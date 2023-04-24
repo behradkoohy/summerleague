@@ -2,64 +2,44 @@
 title: Homepage
 ---
 
-[![MichaelCurrin - jekyll-themed-site-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=jekyll-themed-site-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart)
+# Wessex Summer League
+
+## League Table
+| **Team**                                 	| Wins 	| Draws 	| Losses 	| GF 	| GA 	| GD 	| **Points** 	|
+|------------------------------------------	|------	|-------	|--------	|----	|----	|----	|------------	|
+| _Low Expectations_                         	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
+| _Dudson Isn't Here so We'll Cheat Instead_ 	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
+| _Jeff's Juveniles_                         	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
+| _George Deserves Emminsipation_            	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
+| _Bern Baby Burn_                           	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
+| _Listen Closely, Jamie's trying to shout_  	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
+
+## Fixtures
+
+**29th April**   
+14:30 - Bern Baby Burn vs  Dudson isn't here so we'll cheat instead  
+16:00 - Jeff's Juveniles vs George Deserves Emminsipation  
+
+**1st May**  
+18:30 - Low Expectations vs Listen closely, Jamie’s trying to shout  
+
+**3rd May**. 
+14:30 - Low Expectations vs George Deserves Emminsipation  
+16:00 - Dudson isn't here so we'll cheat instead vs Jeff's Juveniles  
+17:30 - Bern Baby Burn vs Listen closely, Jamie’s trying to shout  
 
 
-## Create your own project 
+**13th May**  
+14:30 - George Deserves Emminsipation vs Listen closely, Jamie’s trying to shout  
+16:00 - Low Expectations vs Dudson isn't here so we'll cheat instead   
+17:30 - Jeff's Juveniles vs Bern Baby Burn  
 
-1. Click this button.
-  - [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f)](https://github.com/MichaelCurrin/jekyll-themed-site-quickstart/generate)
-2. Go to repo _Settings_ and enable as a GitHub Pages site.
-3. Go to the _environment_ tab to check the status of the build and then get the URL of your GitHub Pages site.
+**17th May**  
+14:30 - Listen closely, Jamie’s trying to shout vs Dudson isn't here so we'll cheat instead. 
+16:00 - Low Expectations vs Jeff's Juveniles  
+17:30 - Bern Baby Burn vs George Deserves Emminsipation  
 
-
-## Choose a theme
-
-### Built-in
-
-It is easy to use one of standard themes available of GitHub Pages by setting the theme value in your config. 
-
-There are about 10 and are listed among gems here:
-
-- https://pages.github.com/versions/
-
-You can also switch between themes with a preview, by switching themes within repo Settings 
-
-### Custom 
-
-If you want to use another theme on a GH Pages site, you must use the Remote Theme plugin and point to a GitHub repo.
-
-See this project, which uses that approach and explains it.
-
-- https://github.com/MichaelCurrin/jekyll-theme-quickstart/tree/gh-pages
-
-Or you must use another CI flow like GitHub Actions or Netlify. Then you can put any theme in your config file under `theme`, as long as you also cover it in `Gemfile`.
-
-
-## Set up locally
-
-This project is not intended to be run locally with a dev server.
-
-See this project, which has instructions and a `Gemfile` which are suited for local development.
-
-[![MichaelCurrin - jekyll-blog-demo](https://img.shields.io/static/v1?label=MichaelCurrin&message=jekyll-blog-demo&color=blue&logo=github)](https://github.com/MichaelCurrin/jekyll-blog-demo)
-
-
-## Related projects
-
-- [Jekyll GH Actions Quickstart](https://michaelcurrin.github.io/jekyll-gh-actions-quickstart/)
-    - Similar in approach and structure as this project, but with GH Actions added.
-- [Jekyll Blog Demo](https://github.com/MichaelCurrin/jekyll-blog-demo)
-    - Starter for a static website or blog - built with Jekyll, a minimal theme and GH Pages.
-
-
-## Resources
-
-Learn more about Jekyll and GH Pages.
-
-- [Jekyll resources](https://michaelcurrin.github.io/dev-resources/resources/jekyll/) in my Dev Resources site.
-- [Jekyll](https://jekyllrb.com/) docs homepage.
-- [Jekyll quickstart](https://jekyllrb.com/docs/) page in the Jekyll docs.
-- [Jekyll themes](https://jekyllrb.com/docs/themes/) docs.
-- [Jekyll directory structure](https://jekyllrb.com/docs/structure/) docs.
-- [GitHub Pages](https://pages.github.com/) homepage docs.
+**TBD - captain's will decide on a date/time**  
+George Deserves Emminsipation vs Dudson isn't here so we'll cheat instead  
+Low Expectations vs Bern Baby Burn  
+Listen Closely, Jamie's Trying to Shout vs Jeff's Juveniles  
