@@ -5,6 +5,7 @@ title: Homepage
 # Wessex Summer League
 
 ## League Table
+
 | **Team**                                 	| Wins 	| Draws 	| Losses 	| GF 	| GA 	| GD 	| **Points** 	|
 |------------------------------------------	|------	|-------	|--------	|----	|----	|----	|------------	|
 | _Low Expectations_                         	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
@@ -46,6 +47,7 @@ Listen Closely, Jamie's Trying to Shout vs Jeff's Juveniles
 
 
 ## The Squads
+
 | **Listen closely, Jamie’s trying to shout** 	| **Bern baby burn** 	| **Low Expectations** 	| **George Deserves Emminsipation** 	| **Jeff's Juveniles** 	| **Dudson isn't here so we'll cheat instead** 	|
 |---------------------------------------------	|--------------------	|----------------------	|-----------------------------------	|----------------------	|----------------------------------------------	|
 | _Kira (c)_                                  	| _Bernie (c)_       	| _Cassia (c)_         	| _Gress (c)_                       	| _Jeffs (c)_          	| _Ralph (c)_                                  	|
