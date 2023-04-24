@@ -4,6 +4,8 @@ title: Homepage
 
 # Wessex Summer League
 
+![sam cook dribbling](/images/cook.jpg)
+
 ## League Table
 
 | **Team**                                 	| Wins 	| Draws 	| Losses 	| GF 	| GA 	| GD 	| **Points** 	|
