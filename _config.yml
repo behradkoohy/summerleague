@@ -6,3 +6,5 @@
 theme: jekyll-theme-slate
 title: Wessex Summer League 2023
 
+github:
+  is_project_page: false
