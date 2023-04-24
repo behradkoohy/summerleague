@@ -15,9 +15,10 @@ title: Homepage
 | _Listen Closely, Jamie's trying to shout_  	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
 
 ## Fixtures
+These dates may change, I'll try my best to keep them correct but check with captains! Home team is in maroon, away team is in white. All teams need to provide an umpire for another game on the same day.
 
 **29th April**   
-14:30 - Bern Baby Burn vs  Dudson isn't here so we'll cheat instead  
+14:30 - Bern Baby Burn vs Dudson isn't here so we'll cheat instead  
 16:00 - Jeff's Juveniles vs George Deserves Emminsipation  
 
 **1st May**  
@@ -27,7 +28,6 @@ title: Homepage
 14:30 - Low Expectations vs George Deserves Emminsipation  
 16:00 - Dudson isn't here so we'll cheat instead vs Jeff's Juveniles  
 17:30 - Bern Baby Burn vs Listen closely, Jamie’s trying to shout  
-
 
 **13th May**  
 14:30 - George Deserves Emminsipation vs Listen closely, Jamie’s trying to shout  
