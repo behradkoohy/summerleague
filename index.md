@@ -27,7 +27,7 @@ These dates may change, I'll try my best to keep them correct but check with cap
 **1st May**  
 18:30 - Low Expectations vs Listen closely, Jamie’s trying to shout  
 
-**3rd May**. 
+**3rd May**  
 14:30 - Low Expectations vs George Deserves Emminsipation  
 16:00 - Dudson isn't here so we'll cheat instead vs Jeff's Juveniles  
 17:30 - Bern Baby Burn vs Listen closely, Jamie’s trying to shout  
