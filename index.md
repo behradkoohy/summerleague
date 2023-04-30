@@ -21,7 +21,7 @@ title: Homepage
 These dates may change, I'll try my best to keep them correct but check with captains! Home team is in maroon, away team is in white. All teams need to provide an umpire for another game on the same day.
 
 **29th April**   
-14:30 - Bern Baby Burn vs Dudson isn't here so we'll cheat instead  _Postponed_
+14:30 - Bern Baby Burn vs Dudson isn't here so we'll cheat instead  _Postponed_  
 16:00 - Jeff's Juveniles vs George Deserves Emminsipation  (3 - 2)
 
 **1st May**  
@@ -38,7 +38,7 @@ These dates may change, I'll try my best to keep them correct but check with cap
 17:30 - Jeff's Juveniles vs Bern Baby Burn  
 
 **17th May**  
-14:30 - Listen closely, Jamie’s trying to shout vs Dudson isn't here so we'll cheat instead. 
+14:30 - Listen closely, Jamie’s trying to shout vs Dudson isn't here so we'll cheat instead  
 16:00 - Low Expectations vs Jeff's Juveniles  
 17:30 - Bern Baby Burn vs George Deserves Emminsipation  
 
