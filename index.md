@@ -10,19 +10,19 @@ title: Homepage
 
 | **Team**                                 	| Wins 	| Draws 	| Losses 	| GF 	| GA 	| GD 	| **Points** 	|
 |------------------------------------------	|------	|-------	|--------	|----	|----	|----	|------------	|
+| _Jeff's Juveniles_                         	| 1    	| 0     	| 0      	| 3  	| 2  	| 1  	| 3          	|
 | _Low Expectations_                         	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
 | _Dudson Isn't Here so We'll Cheat Instead_ 	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
-| _Jeff's Juveniles_                         	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
-| _George Deserves Emminsipation_            	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
 | _Bern Baby Burn_                           	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
 | _Listen Closely, Jamie's trying to shout_  	| 0    	| 0     	| 0      	| 0  	| 0  	| 0  	| 0          	|
+| _George Deserves Emminsipation_            	| 0    	| 0     	| 1      	| 2  	| 3  	| -1 	| 0          	|
 
 ## Fixtures
 These dates may change, I'll try my best to keep them correct but check with captains! Home team is in maroon, away team is in white. All teams need to provide an umpire for another game on the same day.
 
 **29th April**   
-14:30 - Bern Baby Burn vs Dudson isn't here so we'll cheat instead  
-16:00 - Jeff's Juveniles vs George Deserves Emminsipation  
+14:30 - Bern Baby Burn vs Dudson isn't here so we'll cheat instead  _Postponed_
+16:00 - Jeff's Juveniles vs George Deserves Emminsipation  (3 - 2)
 
 **1st May**  
 18:30 - Low Expectations vs Listen closely, Jamie’s trying to shout  
