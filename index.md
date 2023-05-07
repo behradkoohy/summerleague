@@ -13,7 +13,7 @@ title: Homepage
 | _Low Expectations_                         	| 2    	| 0     	| 0      	| 10  | 6  	| 4  	| **6**   |
 | _Bern Baby Burn_                           	| 1    	| 0     	| 0      	| 6  	| 2  	| 4  	| **3**     |
 | _Dudson Isn't Here so We'll Cheat Instead_ 	| 1    	| 0     	| 0      	| 3  	| 1  	| 2  	| **3**    	|
-| _Jeff's Juveniles_                         	| 1    	| 0     	| 0      	| 3  	| 2  	| 1  	| **3**     |
+| _Jeff's Juveniles_                         	| 1    	| 0     	| 1      	| 6  	| 3  	| 1  	| **3**     |
 | _George Deserves Emminsipation_            	| 0    	| 0     	| 2      	| 4  	| 7  	| -3 	| **0**     |
 | _Listen Closely, Jamie's trying to shout_  	| 0    	| 0     	| 2      	| 5  	| 12  | -7  | **0**     |
 
