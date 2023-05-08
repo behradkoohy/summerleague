@@ -33,8 +33,8 @@ These dates may change, I'll try my best to keep them correct but check with cap
 17:30 - Bern Baby Burn vs Listen closely, Jamie’s trying to shout  (6 - 1)  
 
 **13th May**  
-14:30 - George Deserves Emminsipation vs Listen closely, Jamie’s trying to shout  
-16:00 - Low Expectations vs Dudson isn't here so we'll cheat instead   
+14:30 - Low Expectations vs Dudson isn't here so we'll cheat instead   
+16:00 - George Deserves Emminsipation vs Listen closely, Jamie’s trying to shout  
 17:30 - Jeff's Juveniles vs Bern Baby Burn  
 
 **17th May**  
