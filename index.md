@@ -10,12 +10,12 @@ title: Homepage
 
 | **Team**                                 	| Wins 	| Draws 	| Losses 	| GF 	| GA 	| GD 	| **Points** 	|
 |------------------------------------------	|------	|-------	|--------	|----	|----	|----	|------------	|
-| _Low Expectations_                         	| 2    	| 0     	| 0      	| 10  | 6  	| 4  	| **6**   |
-| _Bern Baby Burn_                           	| 1    	| 0     	| 0      	| 6  	| 2  	| 4  	| **3**     |
-| _Dudson Isn't Here so We'll Cheat Instead_ 	| 1    	| 0     	| 0      	| 3  	| 1  	| 2  	| **3**    	|
-| _Jeff's Juveniles_                         	| 1    	| 0     	| 1      	| 6  	| 3  	| 1  	| **3**     |
-| _George Deserves Emminsipation_            	| 0    	| 0     	| 2      	| 4  	| 7  	| -3 	| **0**     |
-| _Listen Closely, Jamie's trying to shout_  	| 0    	| 0     	| 2      	| 5  	| 12  | -7  | **0**     |
+| _Low Expectations_                         	| 3    	| 0     	| 0      	| 15  | 4  	| 11  	| **9**   |
+| _Bern Baby Burn_                           	| 1    	| 1     	| 0      	| 9  	| 5  	| 4  	  | **4**   |
+| _Jeff's Juveniles_                         	| 1    	| 1     	| 1      	| 7  	| 8  	| -1  	| **4**   |
+| _George Deserves Emminsipation_            	| 1    	| 0     	| 2      	| 8  	| 10  | -2 	  | **3**   |
+| _Dudson Isn't Here so We'll Cheat Instead_ 	| 1    	| 0     	| 1      	| 3  	| 6  	| -3  	| **3**   |
+| _Listen Closely, Jamie's trying to shout_  	| 0    	| 0     	| 3      	| 8  	| 16  | -8    | **0**   |
 
 ## Fixtures
 These dates may change, I'll try my best to keep them correct but check with captains! Home team is in maroon, away team is in white. All teams need to provide an umpire for another game on the same day.
@@ -33,9 +33,9 @@ These dates may change, I'll try my best to keep them correct but check with cap
 17:30 - Bern Baby Burn vs Listen closely, Jamie’s trying to shout  (6 - 1)  
 
 **13th May**  
-14:30 - Low Expectations vs Dudson isn't here so we'll cheat instead   
-16:00 - George Deserves Emminsipation vs Listen closely, Jamie’s trying to shout  
-17:30 - Jeff's Juveniles vs Bern Baby Burn  
+14:30 - Low Expectations vs Dudson isn't here so we'll cheat instead (5 - 0)  
+16:00 - George Deserves Emminsipation vs Listen closely, Jamie’s trying to shout  (4 - 3)
+17:30 - Jeff's Juveniles vs Bern Baby Burn  (3 - 3)
 
 **17th May**  
 14:30 - Listen closely, Jamie’s trying to shout vs Dudson isn't here so we'll cheat instead  
